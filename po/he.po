@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Omer I.S. (@omeritzics) <omeritzicschwartz@gmail.com>, 2026.
 #
 #, fuzzy
 msgid ""
@@ -98,7 +98,7 @@ msgstr "בהפעלה..."
 #, python-brace-format
 msgid ""
 "{app_name} is running, please close it before proceeding with the update"
-msgstr ""
+msgstr "‏{app_name} פועל כרגע, נא לסגור אותו לפני שממשיכים בעדכון"
 
 #: src/AppDetails.py:497
 msgid "Update error"
@@ -182,7 +182,7 @@ msgstr "נא לבחור את סוג המקור"
 
 #: src/AppDetails.py:1009
 msgid "Reload metadata"
-msgstr "רענון מידע על"
+msgstr "רענון נתוני על"
 
 #: src/AppDetails.py:1010
 msgid ""
@@ -250,7 +250,7 @@ msgstr "לא נמצאו עדכונים"
 
 #: src/InstalledAppsList.py:31
 msgid "No Connection"
-msgstr ""
+msgstr "אין חיבור לרשת"
 
 #: src/InstalledAppsList.py:32
 msgid "Update all"
